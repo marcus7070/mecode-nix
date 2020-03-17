@@ -1,0 +1,3 @@
+[submodule "mecode"]
+	path = mecode/mecode
+	url = git@github.com:marcus7070/mecode.git
